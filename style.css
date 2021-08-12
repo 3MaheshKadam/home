@@ -179,6 +179,12 @@ nav h3{
                line-height: 2;
                /* font-weight: 700; */
            }
+           .nav_item + .nav_item{
+               margin: .4rem;
+           }
+           .special_one{
+               margin: .4rem;
+           }
        }
         
 }
